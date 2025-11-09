@@ -98,8 +98,6 @@ Upload a `.txt` file containing Quranic or Hadith content, or use the included d
 |------------|-------------------------|
 | ![App Home Screenshot](assets/screenshot1.png) | ![Answer Screenshot](assets/screenshot2.png) |
 
-*(Add screenshots by placing them in an `/assets` folder and updating paths above.)*
-
 ---
 
 ## 🤝 Contributing
