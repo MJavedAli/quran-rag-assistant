@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+chromadb
+openai
+tiktoken
+langchain-openai
