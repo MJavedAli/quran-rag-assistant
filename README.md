@@ -50,7 +50,7 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/quran-rag-assistant.git
+git clone https://github.com/mjavedali/quran-rag-assistant.git
 cd quran-rag-assistant
 ```
 
